@@ -116,10 +116,10 @@ TextureImporter:
       name: TREE_0
       rect:
         serializedVersion: 2
-        x: 60
-        y: 0
-        width: 195
-        height: 320
+        x: 49
+        y: 37
+        width: 1787
+        height: 1012
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      TREE_0: 3093979473664756730
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
