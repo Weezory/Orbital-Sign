@@ -90,6 +90,7 @@ public class PlayerController : MonoBehaviour
 
     public void die()
     {
-        transform.position = startPosition;
+        transform.position = RespawnController.Instance.respawnPoint.position;
+        playerRB.linearVelocityY = 0;
     }
 }
